@@ -1,0 +1,7 @@
+
+
+# Ide config
+/.idea/*
+
+# Vendors
+/vendor
