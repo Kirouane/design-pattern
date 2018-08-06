@@ -97,27 +97,6 @@ class StateTest extends TestCase
 
     }
 
-    /**
-     * @test
-     *
-     * Created => activated => archived
-     */
-    public function activatedArchivedScenario()
-    {
-
-    }
-
-    /**
-     * @test
-     *
-     * Created => activated => archived => Customer
-     */
-    public function activatedArchivedCustomerScenario()
-    {
-
-
-    }
-
     public function providerOtherScenario()
     {
         return [
